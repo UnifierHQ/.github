@@ -28,6 +28,9 @@ We're the creators of Unifier, an open source, versatile, and lightning-fast cro
 Our flagship bot that unites Discord communities into one. It has multi-server support, so you can link even more communities together.
 Multi-platform support is enabled using platform support plugins.
 
+If you want to help us translate Unifier to your language, you might want to check out [Unifier Community
+Translations](https://github.com/UnifierTL).
+
 ### [Unifier Micro](https://github.com/UnifierHQ/unifier-micro)
 A memory-efficient light version of Unifier, containing only the core features. Built for small communities that only use Discord.
 
@@ -62,4 +65,3 @@ We're planning to make more cross-platform bots outside of Unifier in the future
   <a href="https://www.guilded.gg/UnifierHQ">Guilded</a>
 </p>
 <br>
-<a align=center href="https://github.com/UnifierTL">Looking for Unifier Community Translations?</a>
