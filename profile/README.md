@@ -53,10 +53,17 @@ done locally on your machine.
 ## Side projects
 Projects we work on that are either experimental or not as active.
 
+### [Website](https://github.com/UnifierHQ/web)
+Our website's source code! Not open source yet, but source available.
+
+### [Nextcord UI ActionRows](https://github.com/UnifierHQ/nextcord-ui-actionrow)
+A very simple implementation of [Novus](https://github.com/voxel-fox-ltd/Novus) ActionRows to Nextcord and similar libraries.
+
+### [Revolt.py Superembeds](https://github.com/UnifierHQ/revoltpy-superembeds)
+An extension of Revolt.py Embed class that adds makeshift embed fields and support for color integers. Used in Unifier Revolt Support.
+
 ### coming soon
 We're planning to make more cross-platform bots outside of Unifier in the future (although they'll be much smaller). Stay tuned!
-
-(won't do things Nerimity related, gonna focus on Revolt)
 
 ----
 <h3 align=center>🔗 Socials</h3>
