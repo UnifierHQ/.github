@@ -9,66 +9,20 @@ UnifierHQ is not an "organization", just a name we use to identify ourselves</p>
 
 ----
 
-## Our story (and mission)
+## The Unifier project
 In the past, connecting different communities online on Discord wasn't as easy. This was a problem for us, as we wanted to unite communities
 that we were good friends with, so everyone could hang out more easily. There was just no bot cut out for that, the ones that already existed
 didn't really meet our needs as well as we wanted it to.
 
 So we decided to take it into our own hand ourselves. If no bot can fulfill our needs, we'll make one ourselves. And thus, Unifier was born.
 
-Ever since then, we've diversified our mission from just connecting Discord servers to bringing communities of any size together, no matter 
-the platform. We want to build a **free, safe, and open** chatting space for everyone, no matter the community or platform.
+Ever since then, we diversified our mission from just connecting Discord servers to bringing communities of any size together, no matter the
+platform. We wanted to build a **free, safe, and open** chatting space for everyone, no matter the community or platform.
 
-----
+But in 2026, we decided to end the project, mainly due to the poor code quality of Unifier and the lack of motivation to rewrite it.
 
-## The Unifier project
-We're the creators of Unifier, an open source, versatile, and lightning-fast cross-server and cross-platform bridge bot.
+We've kept the repositories as a public archive, so the code remains open for all even after we've discontinued it. Thank you for the
+two years of support you've given us!
 
-### [Unifier](https://github.com/UnifierHQ/unifier)
-Our flagship bot that unites Discord communities into one. It has multi-server support, so you can link even more communities together.
-Multi-platform support is enabled using platform support plugins.
-
-If you want to help us translate Unifier to your language, you might want to check out [Unifier Community
-Translations](https://github.com/UnifierTL).
-
-### [Unifier Micro](https://github.com/UnifierHQ/unifier-micro)
-A memory-efficient light version of Unifier, containing only the core features. Built for small communities that only use Discord.
-
-## Plugins
-We've created Plugins for Unifier ourselves, which you can easily install to your own instance.
-
-### [Unifier for Revolt](https://github.com/UnifierHQ/unifier-revolt)
-Unifier Revolt Support is a plugin for Unifier that allows you to connect Revolt communities. You can connect your Discord communties with 
-Revolt ones, or link Revolt communities together.
-  
-### [Unifier for Guilded](https://github.com/UnifierHQ/unifier-guilded)
-Unifier Guilded Support is a plugin for Unifier that allows you to connect Guilded communities. It's like Unifier for Revolt, but for Guilded.
-
-### [RaidGuard](https://github.com/UnifierHQ/unifier-raidguard)
-RaidGuard is a plugin which protects your communities from raiders by scanning messages for content commonly found in raids. All scanning is 
-done locally on your machine.
-
-----
-
-## Side projects
-Projects we work on that are either experimental or not as active.
-
-### [Website](https://github.com/UnifierHQ/web)
-Our website's source code! Not open source yet, but source available.
-
-### [Nextcord UI ActionRows](https://github.com/UnifierHQ/nextcord-ui-actionrow)
-A very simple implementation of [Novus](https://github.com/voxel-fox-ltd/Novus) ActionRows to Nextcord and similar libraries.
-
-### [Revolt.py Superembeds](https://github.com/UnifierHQ/revoltpy-superembeds)
-An extension of Revolt.py Embed class that adds makeshift embed fields and support for color integers. Used in Unifier Revolt Support.
-
-### coming soon
-We're planning to make more cross-platform bots outside of Unifier in the future (although they'll be much smaller). Stay tuned!
-
-----
-<h3 align=center>🔗 Socials</h3>
-<p align=center><a href="https://discord.gg/a4KpNcARzK">Discord</a> • 
-  <a href="https://rvlt.gg/xggPeyCT">Revolt</a> • 
-  <a href="https://www.guilded.gg/UnifierHQ">Guilded</a>
-</p>
-<br>
+By the way - Green (the founder) is working on what is essentially Unifier's successor called
+[Shinobu](https://github.com/greeeen-dev/shinobu), built from the ground up to be cross-platform first and extensible.
